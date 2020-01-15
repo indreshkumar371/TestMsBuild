@@ -1,0 +1,14 @@
+2019-09-09 17:28:13.143 +05:30 [ERR] Hi Test
+System.DivideByZeroException: Attempted to divide by zero.
+   at WebApplication1.Controllers.HomeController.Index() in D:\cloudwatch\TestCloudWatch\WebApplication1\Controllers\HomeController.cs:line 41
+2019-09-09 17:28:13.367 +05:30 [FTL] Testing exception
+System.DivideByZeroException: Attempted to divide by zero.
+   at WebApplication1.Controllers.HomeController.Index() in D:\cloudwatch\TestCloudWatch\WebApplication1\Controllers\HomeController.cs:line 41
+2019-09-09 17:28:13.572 +05:30 [DBG] Testing exception
+2019-09-09 17:31:26.311 +05:30 [ERR] Hi Test
+System.DivideByZeroException: Attempted to divide by zero.
+   at WebApplication1.Controllers.HomeController.Index() in D:\cloudwatch\TestCloudWatch\WebApplication1\Controllers\HomeController.cs:line 41
+2019-09-09 17:31:26.392 +05:30 [FTL] Testing exception
+System.DivideByZeroException: Attempted to divide by zero.
+   at WebApplication1.Controllers.HomeController.Index() in D:\cloudwatch\TestCloudWatch\WebApplication1\Controllers\HomeController.cs:line 41
+2019-09-09 17:31:26.395 +05:30 [DBG] Testing exception
