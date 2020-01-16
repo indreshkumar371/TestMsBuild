@@ -11,7 +11,7 @@
     <PackageReference Include="AWS.Logger.Core" />
     <PackageReference Include="AWS.Logger.SeriLog"  />
     <PackageReference Include="Microsoft.AspNetCore.App" />
-    <PackageReference Include="Microsoft.AspNetCore.Razor.Design"  PrivateAssets="All" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design"  />
     <PackageReference Include="Microsoft.Extensions.Logging.Console"  />
     <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions"  />
     <PackageReference Include="Serilog" Version="2.8.0" />
