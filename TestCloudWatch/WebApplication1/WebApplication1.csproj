@@ -14,7 +14,7 @@
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design"  />
     <PackageReference Include="Microsoft.Extensions.Logging.Console"  />
     <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions"  />
-    <PackageReference Include="Serilog" Version="2.8.0" />
+    <PackageReference Include="Serilog" />
     <PackageReference Include="Serilog.Extensions.Logging" />
     <PackageReference Include="Serilog.Sinks.AwsCloudWatch"  />
     <PackageReference Include="Serilog.Sinks.Console"  />
